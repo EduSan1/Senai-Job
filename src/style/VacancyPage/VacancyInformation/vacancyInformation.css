@@ -1,0 +1,30 @@
+.vacancy-information {
+    width: 100%;
+    height: 30%;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.vacancy-information-left {
+    width: 40%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: space-between;
+    padding-left: 5%;
+}
+
+.vacancy-information-right{
+    width: 40%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: space-between;
+    padding-left: 5%;
+}
